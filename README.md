@@ -15,7 +15,7 @@ Timer: Add a layer of excitement with a timer that tracks your overall game prog
 
 # Technical Insights:
 
-OpenGL Rendering: Employs OpenGL for efficient 3D graphics rendering, delivering high-quality visuals and smooth gameplay.
+OpenGL Rendering: OpenGL is employed for efficient 3D graphics rendering, delivering high-quality visuals and smooth gameplay.
 Shaders: Utilizes custom shaders to create captivating visual effects and enhance the overall visual experience.
 Texture Mapping: Applies detailed textures to characters and environments, bringing a sense of realism to the underwater world.
 Lighting and Shadows: Implements dynamic lighting and shadows to create depth and atmosphere within the game's scenes.
