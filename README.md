@@ -3,8 +3,8 @@ Our SpongeBob game is a 3D game developed in openGL where players control the ic
 
 # Gameplay:
 
-Level 1: Bikini Bottom: Navigate the bustling underwater city, dodging anchors and hooks while collecting jellyfish nets scattered throughout the environment. Reach the Krusty Krab to unlock the portal to Jellyfish Fields.
-Level 2: Jellyfish Fields: Immerse yourself in a dazzling field of vibrant jellyfish. Catch them mid-air to progress, but beware of hidden obstacles and tricky currents. Find Patrick and celebrate your victory in a grand finale.
+Level 1 - Bikini Bottom: Navigate the bustling underwater city, dodging anchors and hooks while collecting jellyfish nets scattered throughout the environment. Reach the Krusty Krab to unlock the portal to Jellyfish Fields.
+Level 2 - Jellyfish Fields: Immerse yourself in a dazzling field of vibrant jellyfish. Catch them mid-air to progress, but beware of hidden obstacles and tricky currents. Find Patrick and celebrate your victory in a grand finale.
 Collectibles: Collect jellyfish nets in Level 1 and jellyfishes in Level 2. Each level features hidden bonus collectibles for dedicated players.
 Hazards: Dodge treacherous anchors and hooks strategically placed throughout the levels to hinder your progress.
 Timer: Add a layer of excitement with a timer that tracks your overall game progress. Be quick and efficient to achieve the best score.
